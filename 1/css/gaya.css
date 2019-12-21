@@ -1,0 +1,31 @@
+#hijau {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;  
+  }
+  
+#biru {
+    border-radius: 25px;
+    border: 2px solid rgb(33, 89, 173);
+    padding: 20px; 
+    width: 200px;
+    height: 150px;  
+  }
+
+#kuning {
+    border-radius: 25px;
+    border: 2px solid rgb(184, 221, 19);
+    padding: 20px; 
+    width: 200px;
+    height: 150px;
+  }
+
+#merah {
+    border-radius: 25px;
+    border: 2px solid rgb(173, 33, 52);
+    padding: 20px; 
+    width: 200px;
+    height: 150px;
+  }
